@@ -1,7 +1,3 @@
-# image-redux
-Simple Python script to reduce the file size of images.
-=======
-
 # Image Redux
 
 Image Redux is a Python script for processing and optimizing images in a specified folder. It resizes images to a maximum width, converts PNG files to JPEG (optional), and can skip small files based on size and width.
